@@ -1,0 +1,25 @@
+{
+  "name": "nyt-news-scraper",
+  "version": "1.0.0",
+  "description": "New York Times article scraper app built with Cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinapalace/nyt-news-scraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Justin McLaren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinapalace/nyt-news-scraper/issues"
+  },
+  "homepage": "https://github.com/chinapalace/nyt-news-scraper#readme",
+  "dependencies": {
+    "mongoose": "^4.13.6"
+  }
+}
